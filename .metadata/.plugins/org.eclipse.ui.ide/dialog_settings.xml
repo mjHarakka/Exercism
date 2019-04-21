@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/mikkoharakka/Exercism/java/darts"/>
+		<item value="/Users/mikkoharakka/Exercism/java"/>
+		<item value="/Users/mikkoharakka/Exercism/java/hello-world"/>
+	</list>
+</section>

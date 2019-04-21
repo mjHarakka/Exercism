@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/mikkoharakka/Exercism/.metadata/.plugins/org.eclipse.jdt.core
+3689772550.index
