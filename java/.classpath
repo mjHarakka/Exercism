@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="hello-world/src/main/java"/>
-	<classpathentry kind="src" path="hello-world/src/test/java"/>
-	<classpathentry kind="src" path="two-fer/src/main/java"/>
-	<classpathentry kind="src" path="two-fer/src/test/java"/>
-	<classpathentry kind="output" path="hello-world/build/classes/java/main"/>
-</classpath>

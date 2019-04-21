@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+/Users/mikkoharakka/Exercism/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-1967956453.index
-1954748958.index
-1108905772.index
-3577080761.index
-3689772550.index
-1393330241.index
